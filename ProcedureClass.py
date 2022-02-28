@@ -25,4 +25,7 @@ class Procedure:
         return self.__practitioner
     def get_charges(self):
         return self.__charges
+    def get_patientID(self):
+        return self.__patientID
+
     

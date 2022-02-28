@@ -23,6 +23,6 @@ class Patient:
         return self.__address
     def get_phone (self):
         return self.__phone
-    def get_phone(self):
+    def get_veteran_status(self):
         return self.__veteran_status
 
